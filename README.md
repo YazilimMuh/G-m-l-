@@ -48,9 +48,9 @@ Bu proje, habitat değişikliklerinin hayvan yaşamı üzerindeki etkilerini izl
    const char *ssid = "Seyma";
    const char *pass = "urfa2763";
 
-![Nodemcu DHT11,MQ135 ve MQ2]("C:\Users\gizem\Desktop\gomulu\1.jpg")
-![Nodemcu DHT11,MQ135 ve MQ2]("C:\Users\gizem\Desktop\gomulu\2.jpg")
-![Nodemcu DHT11,MQ135 ve MQ2]("C:\Users\gizem\Desktop\gomulu\3.jpg")
-![ThingSpeak'da ki görüntü](""C:\Users\gizem\Desktop\gomulu\4.jpg"")
+![Nodemcu DHT11,MQ135 ve MQ2]("https://github.com/gizemnarin/desktop-tutorial/blob/main/1.jpg")
+![Nodemcu DHT11,MQ135 ve MQ2]("https://github.com/gizemnarin/desktop-tutorial/blob/main/2.jpg")
+![Nodemcu DHT11,MQ135 ve MQ2]("https://github.com/gizemnarin/desktop-tutorial/blob/main/3.jpg")
+![ThingSpeak'da ki görüntü]("https://github.com/gizemnarin/desktop-tutorial/blob/main/4.jpg")
 
 
