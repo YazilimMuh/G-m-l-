@@ -51,6 +51,6 @@ Bu proje, habitat değişikliklerinin hayvan yaşamı üzerindeki etkilerini izl
 ![1](https://github.com/YazilimMuh/Gomulu/assets/142061255/bfe8b42a-622f-485c-be1c-d53742d3f2d3)
 ![2](https://github.com/YazilimMuh/Gomulu/assets/142061255/fc247f24-c430-437f-b69c-e5b4af1c1fe0)
 ![3](https://github.com/YazilimMuh/Gomulu/assets/142061255/dc5c9429-11ff-437b-96ff-cee30b7940fa)
-![4](https://github.com/YazilimMuh/Gomulu/assets/142061255/d792b8e5-9c39-430d-9c24-665f92dc87e4)
+![Ekran görüntüsü 2024-06-03 232312](https://github.com/YazilimMuh/Gomulu/assets/142061255/a8cd5987-13fc-47c0-bd6d-cb90b1ff61fb)
 
 
